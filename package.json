@@ -8,6 +8,14 @@
     "start": "node server.js"
   },
   "homepage": "https://anychart.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anychart-integrations/websocket-cexio-anystock-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anychart-integrations/websocket-cexio-anystock-demo/issues"
+  },
   "keywords": [
     "anychart",
     "anystock",
