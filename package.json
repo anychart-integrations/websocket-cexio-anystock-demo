@@ -1,0 +1,30 @@
+{
+  "name": "websocket-stock-demo",
+  "version": "1.0.0",
+  "description": "AnyStock - WebSocket and Stock Analysis Tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "homepage": "https://anychart.com",
+  "keywords": [
+    "anychart",
+    "anystock",
+    "anygantt",
+    "anymap",
+    "charts",
+    "javascript charts",
+    "ajax charts",
+    "plots",
+    "javascript",
+    "SVG",
+    "HTML5"
+  ],
+  "author": "AnyChart <contact@anychart.com> (http://anychart.com)",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^3.3.3",
+    "crypto-js": "^3.1.9-1"
+  }
+}
