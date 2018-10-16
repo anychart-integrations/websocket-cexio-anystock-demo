@@ -14,10 +14,14 @@ This demo shows how to use AnyStock charts with real-time data and apply analysi
 To use this sample you must have package manager for Node.js - NPM installed. If not please visit [NodeJS official site](https://nodejs.org/en/).
 
 **To start this example run commands listed below.**
+Clone the repository from github.com:
+```
+git clone git@github.com:anychart-integrations/websocket-cexio-anystock-demo.git
+```
 
 Navigate to the demo folder:
 ```
-cd stockAnalysisDemo
+cd websocket-cexio-anystock-demo
 ```
 
 Install dependencies:
