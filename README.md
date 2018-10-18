@@ -1,5 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
-## AnyStock - WebSocket and Stock Analysis Tools
+# AnyStock - WebSocket and Stock Analysis Tools
 AnyStock offers a large set of features, that allow you to build your online financial portal and one of the most exciting features is the ability to draw/display on the chart so called drawing tools or, as they are called in our [documentation](https://docs.anychart.com/) and settings, annotations. Also, any financial portal should provide technical indicators to analyze chart and indicate market direction. AnyStock charts are ready to use with real-time data. All you need is to choose data vendor and preferable transfer protocol.
 This demo shows how to use AnyStock charts with real-time data and apply analysis tools.
 
