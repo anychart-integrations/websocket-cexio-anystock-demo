@@ -15,22 +15,22 @@ To use this sample you must have package manager for Node.js - NPM installed. If
 
 **To start this example run commands listed below.**
 Clone the repository from github.com:
-```
+```bash
 git clone git@github.com:anychart-integrations/websocket-cexio-anystock-demo.git
 ```
 
 Navigate to the demo folder:
-```
+```bash
 cd websocket-cexio-anystock-demo
 ```
 
 Install dependencies:
-```
+```bash
 npm install
 ```
 
 Run the nodejs server which establishes a secure WebSocket connection to the data vendor CEXIO and forwards received data to the client side:
-```
+```bash
 node server.js
 ```
 
